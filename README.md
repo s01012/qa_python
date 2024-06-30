@@ -1,4 +1,4 @@
-# qa_python
+# qa_python_sprint_4
 Список тестов:
 1. test_add_new_book_add_one_books
 2. test_set_book_genre_set_new_genre
